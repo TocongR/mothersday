@@ -956,7 +956,7 @@ export default function MothersDay() {
               ))}
             </div>
             <div className="header-badge">May 10, 2026</div>
-            <h1 className="main-title">Happy Mother's Day</h1>
+            <h1 className="main-title">Happy Mother's Day, Janet Tocong</h1>
             <div className="divider">🌸</div>
           </div>
 
